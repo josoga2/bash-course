@@ -18,6 +18,7 @@ wget -nc https://github.com/josoga2/bash-course/raw/refs/heads/main/bash/module_
 ```
 
 Publication: https://www.sciencedirect.com/science/article/pii/S0960982212011402?via%3Dihub
-C Elegans Data: https://www.ensembl.org/Caenorhabditis_elegans/Info/Index
+
+C Elegans Genome Resource: https://www.ensembl.org/Caenorhabditis_elegans/Info/Index
 
 
