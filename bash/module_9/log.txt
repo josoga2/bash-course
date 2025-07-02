@@ -1,0 +1,1000 @@
+ 1117  mkdir tmp
+ 1118  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb 
+ 1119  bash mdScript.sh 
+ 1120  chmod 777 tmp
+ 1121  touch tmp
+ 1122  touch /tmp/tmp
+ 1123  pip uninstall acpype
+ 1124  pip install git+https://github.com/alanwilter/acpype.git
+ 1125  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb 
+ 1126  bash mdScript.sh 
+ 1127  nano /mnt/volume/miniconda3/lib/python3.12/site-packages/acpype/topol.py
+ 1128  bash mdScript.sh 
+ 1129  nano /mnt/volume/miniconda3/lib/python3.12/site-packages/acpype/topol.py
+ 1130  bash mdScript.sh 
+ 1131  nano /mnt/volume/miniconda3/lib/python3.12/site-packages/acpype/topol.py
+ 1132  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb 
+ 1133  bash mdScript.sh 
+ 1134  less ligand.gro 
+ 1135  nano mdScript.sh 
+ 1136  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb 
+ 1137  ls
+ 1138  bash mdScript.sh 
+ 1139  less ligand.gro 
+ 1140  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb 
+ 1141  bash mdScript.sh 
+ 1142  ls
+ 1143  less ligand.gro 
+ 1144  bash mdScript.sh 
+ 1145  less ligand.gro 
+ 1146  less docked_ligand.pdbqt 
+ 1147  obabel docked_ligand.pdbqt -O ligand.gro --conformer 1
+ 1148  obabel docked_ligand.pdbqt -O ligand.gro 
+ 1149  obabel docked_ligand.pdbqt -O ligand.gro --unique
+ 1150  less ligand.gro 
+ 1151  bash mdScript.sh 
+ 1152  nano mdScript.sh 
+ 1153  bash mdScript.sh 
+ 1154  less ligand.gro 
+ 1155  acpype -i ligand.gro -o gmx
+ 1156  less ligand.gro 
+ 1157  cat ligand.gro 
+ 1158  sed -i 's/1UNL/LIG/g' ligand.pdb
+ 1159  ls
+ 1160  sed -i 's/1UNL/LIG/g' ligand.gro
+ 1161  less ligand.p
+ 1162  less ligand.pdb
+ 1163  less ligand.gro 
+ 1164  acpype -i ligand.gro -o gmx
+ 1165  nano ligand.gro 
+ 1166  acpype -i ligand.gro -o gmx
+ 1167  ./run_acpype.py -i CCCC
+ 1168  acpype -i CCCC
+ 1169  ls
+ 1170  cat ligand.pdb
+ 1171  cat ligand.gro
+ 1172  nano ligand.gro
+ 1173  acpype -i ligand.gro -o gmx
+ 1174  nano ligand.gro
+ 1175  conda install --solver=classic conda-forge::conda-libmamba-solver conda-forge::libmamba conda-forge::libmambapy conda-forge::libarchive
+ 1176  sudo apt-get install libarchive13
+ 1177  conda install mamba -c conda-forge --force-reinstall -y
+ 1178  conda install mamba -c conda-forge --force-reinstall -y --solver classic
+ 1179  cd /mnt/volume/
+ 1180  ls
+ 1181  cd proteins.ma/
+ 1182  ls
+ 1183  cd ecoli/
+ 1184  ls
+ 1185  cd test_prot_md_script/
+ 1186  ls
+ 1187  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb tmp
+ 1188  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb tmp -r
+ 1189  ls
+ 1190  rm smiles_molecule.mol2 
+ 1191  ls
+ 1192  cd
+ 1193  cd /mnt/volume/
+ 1194  ls
+ 1195  cd proteins.ma/ecoli/
+ 1196  exit
+ 1197  cd /mnt/volume/
+ 1198  ls
+ 1199  cd proteins.ma/
+ 1200  ls
+ 1201  cd ecoli/
+ 1202  ls
+ 1203  cd test_prot_md_script/
+ 1204  ls
+ 1205  😀
+ 1206  ls
+ 1207  rm mdScript.sh 
+ 1208  nano pastOne.sh
+ 1209  ls
+ 1210  rm pastOne.sh 
+ 1211  nano pastOne.sh
+ 1212  bash pastOne.sh 
+ 1213  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb tmp -r
+ 1214  ls
+ 1215  rm ligand.mol2 
+ 1216  ld
+ 1217  ls
+ 1218  history | grep source
+ 1219  source /usr/local/gromacs/bin/GMXRC
+ 1220  gmx_mpi 
+ 1221  rm pastOne.sh 
+ 1222  nano pastOne.sh
+ 1223  bash pastOne.sh 
+ 1224  rm ligand.mol2 
+ 1225  rm ligand.gro ligand.pdbqt vina.log protein_fixed.pdb ligand.pdb topol.top docked_ligand.pdbqt protein_clean.pdb tmp -r
+ 1226  ls
+ 1227  rm pastOne.sh 
+ 1228  nano pastOne.sh
+ 1229  bash pastOne.sh 
+ 1230  ls
+ 1231  rm pastOne.sh 
+ 1232  bash pastOne.sh 
+ 1233  nano pastOne.sh
+ 1234  bash pastOne.sh 
+ 1235  ls
+ 1236  less ligand.
+ 1237  less ligand.gro 
+ 1238  less ligand.pdb
+ 1239  less ligand.mol2 
+ 1240  ls
+ 1241  cat ligand.mol2 
+ 1242  less ligand.mol2 
+ 1243  rm pastOne.sh 
+ 1244  nano partOne.sh
+ 1245  less partOne.sh 
+ 1246  bash partOne.sh 
+ 1247  less ligand.mol2 
+ 1248  wget http://www.mdtutorials.com/gmx/complex/Files/sort_mol2_bonds.pl
+ 1249  rm partOne.sh 
+ 1250  nano partOne.sh 
+ 1251  bash partOne.sh 
+ 1252  less ligand.mol2 
+ 1253  cat ligand.mol2 
+ 1254  less ligand.pdb
+ 1255  cat ligand.pdb
+ 1256  ls
+ 1257  cd ..
+ 1258  ls
+ 1259  cd pbp3
+ 1260  ls
+ 1261  cd charmm36-jul2022.ff/
+ 1262  ls
+ 1263  cd ..
+ 1264  ls
+ 1265  cp charmm36-jul2022.ff/ -r ../test_prot_md_script/
+ 1266  cd ../test_prot_md_script/
+ 1267  ls
+ 1268  rm -r charmm36-jul2022.ff/
+ 1269  ls
+ 1270  cp ../pbp3/cgenff_charmm2gmx_py3_nx2.py $PWD
+ 1271  ls
+ 1272  cp ../pbp3/charmm36-jul2022.ff/ -r $PWD
+ 1273  ls
+ 1274  nano CEF.mol2
+ 1275  nano CEF.str
+ 1276  less
+ 1277  ls
+ 1278  less ligand.pdb
+ 1279  less docked_ligand.pdb
+ 1280  gmx_mpi editconf -f ligand.pdb -o ligand.gro
+ 1281  ls
+ 1282  mv CEF.mol2 ligand.mol2
+ 1283  mv CEF.str ligand.str
+ 1284  ls
+ 1285  cd /mnt/volume/
+ 1286  cd proteins.ma/ecoli/
+ 1287  ls test_prot_md_script/
+ 1288  cd test_prot_md_script/
+ 1289  ls
+ 1290  l
+ 1291  less ec_cef.pdb 
+ 1292  grep CEF ec_cef.pdb 
+ 1293  grep UNL ec_cef.pdb 
+ 1294  grep UNL ec_cef.pdb > CEF.pdb
+ 1295  ls
+ 1296  mv CEF.pdb ligand.pdb
+ 1297  ls
+ 1298  grep -v UNL ec_cef.pdb > protein.pdb
+ 1299  less protein.pdb 
+ 1300  ls
+ 1301  wget https://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/charmm36-jul2022.ff.tgz
+ 1302  tar -zxvf charmm36-jul2022.ff.tgz
+ 1303  ls
+ 1304  mv download.php\?filename\=CHARMM_ff_params_files%2Fcharmm36-jul2022.ff.tgz charmm36-jul2022.ff.tgz
+ 1305  l
+ 1306  tar -zxvf charmm36-jul2022.ff.tgz
+ 1307  ls
+ 1308  l
+ 1309  gmx_mpi 
+ 1310  source /usr/local/gromacs/bin/GMXRC
+ 1311  gmx_mpi pdb2gmx -f protein.pdb -o protein.gro -ter -water tip3p -ff charmm36 
+ 1312  ls
+ 1313  printf "1" | gmx_mpi pdb2gmx -f protein.pdb -o protein.gro -ter -water tip3p  
+ 1314  gmx_mpi pdb2gmx -f protein.pdb -o protein.gro -ter -water tip3p
+ 1315  ls
+ 1316  pwd
+ 1317  ls
+ 1318  cd charmm36-jul2022.ff
+ 1319  ls
+ 1320  cd ..
+ 1321  ls
+ 1322  conda create -n networkx_env python=3.5
+ 1323  conda install networkx=2.3
+ 1324  conda activate networkx_env
+ 1325  conda install networkx=2.3
+ 1326  wget https://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/cgenff_charmm2gmx_py3_nx2.py
+ 1327  mv download.php\?filename\=CHARMM_ff_params_files%2Fcgenff_charmm2gmx_py3_nx2.py cgenff_charmm2gmx_py3_nx2.py
+ 1328  ls
+ 1329  nano ligand.str
+ 1330  ls
+ 1331  python cgenff_charmm2gmx_py3_nx2.py CEF ligand_fix.mol2 ligand.str charmm36-jul2022.ff
+ 1332  conda install numpy
+ 1333  python cgenff_charmm2gmx_py3_nx2.py CEF ligand_fix.mol2 ligand.str charmm36-jul2022.ff
+ 1334  ls
+ 1335  gmx_mpi editconf -f cef_ini.pdb -o ligand.gro
+ 1336  ls
+ 1337  cp protein.gro complex.gro
+ 1338  cat ligand.gro 
+ 1339  nano complex.gro 
+ 1340  ls
+ 1341  nano topol.top 
+ 1342  less cef.itp
+ 1343  gmx editconf -f complex.gro -o newbox.gro -bt dodecahedron -d 1.0
+ 1344  gmx_mpi editconf -f complex.gro -o newbox.gro -bt dodecahedron -d 1.0
+ 1345  gmx_mpi solvate -cp newbox.gro -cs spc216.gro -p topol.top -o solv.gro
+ 1346  ls
+ 1347  gmx_mpi grompp -f ions.mdp -c solv.gro -p topol.top -o ions.tpr
+ 1348  wget http://www.mdtutorials.com/gmx/complex/Files/ions.mdp
+ 1349  gmx_mpi grompp -f ions.mdp -c solv.gro -p topol.top -o ions.tpr
+ 1350  gmx_mpi genion -s ions.tpr -o solv_ions.gro -p topol.top -pname NA -nname CL -neutral
+ 1351  tail topol.top 
+ 1352  wget http://www.mdtutorials.com/gmx/complex/Files/em.mdp
+ 1353  ls
+ 1354  gmx_mpi grompp -f em.mdp -c solv_ions.gro -p topol.top -o em.tpr
+ 1355  gmx_mpi mdrun -v -deffnm em
+ 1356  ls
+ 1357  gmx_mpi make_ndx -f ligand.gro -o index_lig.ndx
+ 1358  gmx_mpi genrestr -f ligand.gro -n index_lig.ndx -o posre_lig.itp -fc 1000 1000 1000
+ 1359  nano topol.top 
+ 1360  ls posre_lig.itp
+ 1361  gmx_mpi make_ndx -f em.gro -o index.ndx
+ 1362  wget http://www.mdtutorials.com/gmx/complex/Files/nvt.mdp
+ 1363  nano nvt.mdp 
+ 1364  cat nvt.mdp 
+ 1365  gmx_mpi grompp -f nvt.mdp -c em.gro -r em.gro -p topol.top -n index.ndx -o nvt.tpr
+ 1366  nano topol.top
+ 1367  gmx_mpi grompp -f nvt.mdp -c em.gro -r em.gro -p topol.top -n index.ndx -o nvt.tpr
+ 1368  screen -S molSim
+ 1369  cd /mnt/volume/
+ 1370  cd proteins.ma/ecoli/test_prot_md_script/
+ 1371  ls
+ 1372  python cgenff_charmm2gmx.py CEF ligand.mol2 ligand.str charmm36-jul2022.ff
+ 1373  python cgenff_charmm2gmx_py3_nx2.py CEF ligand.mol2 ligand.str charmm36-jul2022.ff
+ 1374  pip install networkx
+ 1375  python cgenff_charmm2gmx_py3_nx2.py CEF ligand.mol2 ligand.str charmm36-jul2022.ff
+ 1376  nano ligand.str 
+ 1377  nano ligand.mol2 
+ 1378  python3 cgenff_charmm2gmx.py CEF ligand.mol2 ligand.str charmm36-jul2022.ff
+ 1379  python3 cgenff_charmm2gmx_py3_nx2.py CEF ligand.mol2 ligand.str charmm36-jul2022.ff
+ 1380  wget https://raw.githubusercontent.com/Lemkul-Lab/cgenff_charmm2gmx/refs/heads/main/cgenff_charmm2gmx_py3_nx2.py
+ 1381  rm cgenff_charmm2gmx_py3_nx2.py
+ 1382  rm cgenff_charmm2gmx_py3_nx2.py.1 
+ 1383  wget https://raw.githubusercontent.com/Lemkul-Lab/cgenff_charmm2gmx/refs/heads/main/cgenff_charmm2gmx_py3_nx2.py
+ 1384  ls
+ 1385  python3 cgenff_charmm2gmx_py3_nx2.py CEF ligand.mol2 ligand.str charmm36-jul2022.ff
+ 1386  ls *.itp
+ 1387  ls
+ 1388  rm -r charmm36-jul2022.ff/
+ 1389  ls
+ 1390  rm *
+ 1391  ls
+ 1392  cp ../pbp3/prot.pdb 
+ 1393  cp ../pbp3/prot.pdb $PWD
+ 1394  mv prot.pdb protein.pdb
+ 1395  ls
+ 1396  wget https://files.rcsb.org/ligands/view/CEF_ideal.sdf -o ligand.sdf
+ 1397  ls
+ 1398  less ligand.sdf 
+ 1399  rm ligand.sdf 
+ 1400  mv CEF_ideal.sdf ligand.sdf
+ 1401  ls
+ 1402  nano partOne.sh
+ 1403  bash partOne.sh 
+ 1404  ls
+ 1405  less protein_clean.pdb 
+ 1406  less protein.pdb 
+ 1407  ls
+ 1408  rm *
+ 1409  wget https://files.rcsb.org/ligands/view/CEF_ideal.sdf -O ligand.sdf
+ 1410  ls
+ 1411  cp ../pbp3/protein.pdb 
+ 1412  cp ../pbp3/protein.pdb $PWD
+ 1413  ls
+ 1414  less protein.pdb 
+ 1415  less ligand.sdf 
+ 1416  nano part1.sh
+ 1417  bash part1.sh 
+ 1418  less protein_clean.pdb 
+ 1419  grep CRYST protein_clean.pdb 
+ 1420  rm part1.sh 
+ 1421  bash s.sh
+ 1422  nano script1.sh
+ 1423  bash script1.sh 
+ 1424  ls
+ 1425  cat protein_clean.pdb 
+ 1426  ls -lh
+ 1427  cat protein_fixed.pdb 
+ 1428  cat docked_ligand.pdb
+ 1429  cat docked_ligand.pdbqt 
+ 1430  ls
+ 1431  rm *
+ 1432  ls
+ 1433  cd /mnt/volume/
+ 1434  ls
+ 1435  screen -ls
+ 1436  screen -r molSim
+ 1437  source /usr/local/gromacs/bin/GMXRC
+ 1438  cd /mnt/volume/
+ 1439  ls
+ 1440  screen -r molSim
+ 1441  ls
+ 1442  cd proteins.ma/ecoli/pa_pbp1a/
+ 1443  ls
+ 1444  cat ligand.gro 
+ 1445  nano complex.gro 
+ 1446  gmx_mpi editconf -f complex.gro -o newbox.gro -bt dodecahedron -d 1.0
+ 1447  gmx_mpi solvate -cp newbox.gro -cs spc216.gro -p topol.top -o solv.gro
+ 1448  wget http://www.mdtutorials.com/gmx/complex/Files/ions.mdp
+ 1449  gmx_mpi grompp -f ions.mdp -c solv.gro -p topol.top -o ions.tpr
+ 1450  nano topol.top 
+ 1451  less
+ 1452  ls
+ 1453  nano topol.top 
+ 1454  gmx_mpi editconf -f complex.gro -o newbox.gro -bt dodecahedron -d 1.0
+ 1455  gmx_mpi solvate -cp newbox.gro -cs spc216.gro -p topol.top -o solv.gro
+ 1456  gmx_mpi grompp -f ions.mdp -c solv.gro -p topol.top -o ions.tpr
+ 1457  rm topol.top 
+ 1458  ls
+ 1459  mv \#topol.top.1# topol.top
+ 1460  ls
+ 1461  nano topol.top 
+ 1462  gmx_mpi editconf -f complex.gro -o newbox.gro -bt dodecahedron -d 1.0
+ 1463  gmx_mpi solvate -cp newbox.gro -cs spc216.gro -p topol.top -o solv.gro
+ 1464  gmx_mpi grompp -f ions.mdp -c solv.gro -p topol.top -o ions.tpr
+ 1465  gmx_mpi genion -s ions.tpr -o solv_ions.gro -p topol.top -pname NA -nname CL -neutral
+ 1466  wget http://www.mdtutorials.com/gmx/complex/Files/em.mdp
+ 1467  gmx_mpi grompp -f em.mdp -c solv_ions.gro -p topol.top -o em.tpr
+ 1468  gmx_mpi mdrun -v -deffnm em
+ 1469  gmx_mpi make_ndx -f ligand.gro -o index_lig.ndx
+ 1470  gmx_mpi genrestr -f ligand.gro -n index_lig.ndx -o posre_lig.itp -fc 1000 1000 1000
+ 1471  ls
+ 1472  nano topol.top 
+ 1473  gmx_mpi make_ndx -f em.gro -o index.ndx
+ 1474  wget http://www.mdtutorials.com/gmx/complex/Files/nvt.mdp
+ 1475  nano nvt.mdp 
+ 1476  gmx_mpi grompp -f nvt.mdp -c em.gro -r em.gro -p topol.top -n index.ndx -o nvt.tpr
+ 1477  gmx_mpi mdrun -deffnm nvt
+ 1478  wget http://www.mdtutorials.com/gmx/complex/Files/npt.mdp
+ 1479  nano npt.mdp 
+ 1480  gmx_mpi grompp -f npt.mdp -c nvt.gro -t nvt.cpt -r nvt.gro -p topol.top -n index.ndx -o npt.tpr
+ 1481  gmx_mpi mdrun -deffnm npt
+ 1482  screen -r molSim
+ 1483  ls
+ 1484  cd /mnt/volume/
+ 1485  ls
+ 1486  cd proteins.ma/ecoli/
+ 1487  ls
+ 1488  cd test_prot_md_script/
+ 1489  ls
+ 1490  gmx_mpi trjconv -s md.tpr -f md.xtc -o mdcenter.xtc -center -pbc mol -ur compact
+ 1491  source /usr/local/gromacs/bin/GMXRC
+ 1492  gmx_mpi trjconv -s md.tpr -f md.xtc -o mdcenter.xtc -center -pbc mol -ur compact
+ 1493  gmx_mpi trjconv -s md.tpr -f md.xtc -o last_frame.pdb -dump -1
+ 1494  ls
+ 1495  pwd
+ 1496  cd ../pa_pbp1a/
+ 1497  ls
+ 1498  gmx_mpi trjconv -s md.tpr -f md.xtc -o mdcenter.xtc -center -pbc mol -ur compact
+ 1499  gmx_mpi trjconv -s md.tpr -f md_center.xtc -o last_frame.pdb -dump -1
+ 1500  ls
+ 1501  gmx_mpi trjconv -s md.tpr -f mdcenter.xtc -o last_frame.pdb -dump -1
+ 1502  cd ../test_prot_md_script/
+ 1503  ls
+ 1504  gmx_mpi trjconv -s md.tpr -f mdcenter.xtc -o last_frame.pdb -dump -1
+ 1505  ls
+ 1506  ls -h
+ 1507  ls -lh
+ 1508  gmx_mpi trjconv -s md.tpr -f mdcenter.xtc -o start_frame.pdb -dump -0
+ 1509  cd ../pa_pbp1a/
+ 1510  gmx_mpi trjconv -s md.tpr -f mdcenter.xtc -o start_frame.pdb -dump -0
+ 1511  ls
+ 1512  cd /mnt/volume/
+ 1513  ls
+ 1514  cd proteins.ma/
+ 1515  ls
+ 1516  cd ecoli/pa_pbp1a/
+ 1517  ls
+ 1518  cd /mnt/volume/
+ 1519  conda deactivate
+ 1520  ls
+ 1521  cd proteins.ma/
+ 1522  ls
+ 1523  cd ecoli/
+ 1524  ls
+ 1525  cd without_ligs/
+ 1526  ls
+ 1527  cp ../../../md_p_w/mdpDload.sh 
+ 1528  cp ../../../md_p_w/mdpDload.sh $PWD
+ 1529  cp ../../../md_p_w/proteinInWater.sh $PWD
+ 1530  cp ../../../md_p_w/instructions.md $PWD
+ 1531  ls
+ 1532  less instructions.md 
+ 1533  nano context.md
+ 1534  ls
+ 1535  bash mdpDload.sh 
+ 1536  ls
+ 1537  nano npt.mdp 
+ 1538  nano md.mdp 
+ 1539  nano context.md 
+ 1540  nano md.mdp 
+ 1541  ls
+ 1542  cp ../test_prot_md_script/protein.pdb 
+ 1543  cp ../test_prot_md_script/protein.pdb $PWD
+ 1544  LS
+ 1545  ls
+ 1546  mkdir ec
+ 1547  cp * ec/
+ 1548  cp * -r ec/
+ 1549  ls ec/
+ 1550  cd ec
+ 1551  ls
+ 1552  rm -r ec
+ 1553  cd ..
+ 1554  ls
+ 1555  mkdir pa
+ 1556  cp * pa
+ 1557  ls pa
+ 1558  ls ec
+ 1559  ls
+ 1560  cd ec
+ 1561  ls
+ 1562  cp ../../test_prot_md_script/protein.pdb $PWD
+ 1563  ls
+ 1564  less instructions.md 
+ 1565  screen -ls
+ 1566  screen -r molSim
+ 1567  cd /mnt/volume/
+ 1568  ls
+ 1569  ls p_w/
+ 1570  ls md_p_w/
+ 1571  ld
+ 1572  cd proteins.ma/
+ 1573  ls
+ 1574  cd ecoli/
+ 1575  ls
+ 1576  mkdir without_ligs
+ 1577  cd without_ligs/
+ 1578  l
+ 1579  cp ../../../md_p_w/mdpDload.sh 
+ 1580  screen -r molSim
+ 1581  cd /mnt/volume/
+ 1582  ls
+ 1583  cd proteins.ma/
+ 1584  ls
+ 1585  cd ecoli/
+ 1586  ls
+ 1587  cd pa_pbp1a/
+ 1588  ls
+ 1589  cd ../test_prot_md_script/
+ 1590  ls
+ 1591  screen -r molSim
+ 1592  gmx_mpi trjconv -s md.tpr -f md_center.xtc -o ec_last_frame.pdb -dump -642
+ 1593  source /usr/local/gromacs/bin/GMXRC
+ 1594  gmx_mpi trjconv -s md.tpr -f md_center.xtc -o ec_last_frame.pdb -dump -642
+ 1595  gmx_mpi trjconv -s md.tpr -f mdcenter.xtc  -o ec_last_frame.pdb -dump -642
+ 1596  cd ../pa_pbp1a/
+ 1597  ls
+ 1598  gmx_mpi trjconv -s md.tpr -f md_center.xtc -o pa_last_frame.pdb -dump -63
+ 1599  gmx_mpi trjconv -s md.tpr -f mdcenter.xtc -o pa_last_frame.pdb -dump -63
+ 1600  ls
+ 1601  cd /mnt/volume/
+ 1602  ls
+ 1603  cd proteins.ma/
+ 1604  ls
+ 1605  cd ecoli/
+ 1606  ls
+ 1607  cd without_ligs/
+ 1608  ls
+ 1609  cd ec
+ 1610  ls
+ 1611  ls -lh *.xtc
+ 1612  cd ../pa/
+ 1613  ls
+ 1614  screen -r molSim
+ 1615  ls
+ 1616  cd ..
+ 1617  cd ec/
+ 1618  ls
+ 1619  pwd
+ 1620  ls
+ 1621  gmx_mpi trjconv -s md.tpr -f md.xtc -o mdcenter.xtc -center -pbc mol -ur compact
+ 1622  source /usr/local/gromacs/bin/GMXRC
+ 1623  gmx_mpi trjconv -s md.tpr -f md.xtc -o mdcenter.xtc -center -pbc mol -ur compact
+ 1624  screen -r molSim
+ 1625  ls
+ 1626  screen -r molSim
+ 1627  exit
+ 1628  cd /mnt/volume/
+ 1629  ls
+ 1630  cd proteins.ma/
+ 1631  ls
+ 1632  cd ecoli/
+ 1633  ls
+ 1634  mkdir salm
+ 1635  cd salm/
+ 1636  pwd
+ 1637  exit
+ 1638  cd /mnt/volume/
+ 1639  ls
+ 1640  cd proteins.ma/
+ 1641  ls
+ 1642  cd ecoli/
+ 1643  ls
+ 1644  cd salm/
+ 1645  ls
+ 1646  source /usr/local/gromacs/bin/GMXRC
+ 1647  ls
+ 1648  grep UNL complex.pdb > ligand.pdb
+ 1649  grep -v UNL complex.pdb > protein.pdb
+ 1650  grep UNL prot_lig.pdb > ligand.pdb
+ 1651  grep -v UNL prot_lig.pdb > protein.pdb
+ 1652  ls
+ 1653  less ligand.pdb 
+ 1654  less protein.pdb 
+ 1655  mv prot_lig.pdb complex.pdb
+ 1656  ls
+ 1657  wget https://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/charmm36-jul2022.ff.tgz
+ 1658  tar -zxvf charmm36-jul2022.ff.tgz
+ 1659  ls
+ 1660  mv download.php\?filename\=CHARMM_ff_params_files%2Fcharmm36-jul2022.ff.tgz charmm36-jul2022.ff.tgz
+ 1661  tar -zxvf charmm36-jul2022.ff.tgz
+ 1662  ls
+ 1663  gmx_mpi pdb2gmx -f protein.pdb -o protein.gro -ter -water tip3p
+ 1664  ls
+ 1665  less protein.pdb 
+ 1666  gmx_mpi pdb2gmx -f protein.pdb -o protein.gro -ter -water tip3p
+ 1667  ls
+ 1668  pwd
+ 1669  ls
+ 1670  ls ../pa_pbp1a/*.str
+ 1671  nano ligand.str 
+ 1672  ls
+ 1673  conda activate networkx_env
+ 1674  wget https://mackerell.umaryland.edu/download.php?filename=CHARMM_ff_params_files/cgenff_charmm2gmx_py3_nx2.py
+ 1675  mv download.php\?filename\=CHARMM_ff_params_files%2Fcgenff_charmm2gmx_py3_nx2.py cgenff_charmm2gmx_py3_nx2.py
+ 1676  ls
+ 1677  python cgenff_charmm2gmx_py3_nx2.py CEF ligand_fix.mol2 ligand.str charmm36-jul2022.ff
+ 1678  exit
+ 1679  cd /mnt/volume/proteins.ma/ecoli/salm/
+ 1680  ls
+ 1681  conda activate networkx_env
+ 1682  source /usr/local/gromacs/bin/GMXRC
+ 1683  python cgenff_charmm2gmx_py3_nx2.py CEF ligand_fix.mol2 ligand.str charmm36-jul2022.ff
+ 1684  ls
+ 1685  gmx_mpi editconf -f cef_ini.pdb -o ligand.gro 
+ 1686  less ligand.gro 
+ 1687  head ligand.gro 
+ 1688  head protein.gro 
+ 1689  cp protein.gro complex.gro
+ 1690  cat ligand.gro 
+ 1691  nano complex.gro 
+ 1692  less complex.gro 
+ 1693  nano complex.gro 
+ 1694  nano topol.top 
+ 1695  source /usr/local/gromacs/bin/GMXRC
+ 1696  gmx_mpi editconf -f complex.gro -o newbox.gro -bt dodecahedron -d 1.0
+ 1697  gmx_mpi solvate -cp newbox.gro -cs spc216.gro -p topol.top -o solv.gro
+ 1698  wget http://www.mdtutorials.com/gmx/complex/Files/ions.mdp
+ 1699  ls
+ 1700  gmx_mpi grompp -f ions.mdp -c solv.gro -p topol.top -o ions.tpr
+ 1701  gmx_mpi genion -s ions.tpr -o solv_ions.gro -p topol.top -pname NA -nname CL -neutral
+ 1702  wget http://www.mdtutorials.com/gmx/complex/Files/em.mdp
+ 1703  gmx_mpi grompp -f em.mdp -c solv_ions.gro -p topol.top -o em.tpr
+ 1704  gmx_mpi mdrun -v -deffnm em
+ 1705  gmx_mpi make_ndx -f ligand.gro -o index_lig.ndx
+ 1706  gmx_mpi genrestr -f ligand.gro -n index_lig.ndx -o posre_lig.itp -fc 1000 1000 1000
+ 1707  nano topol.top 
+ 1708  gmx_mpi make_ndx -f em.gro -o index.ndx
+ 1709  wget http://www.mdtutorials.com/gmx/complex/Files/nvt.mdp
+ 1710  nano nvt.mdp 
+ 1711  cat ../pa_pbp1a/nvt.mdp 
+ 1712  ls
+ 1713  gmx_mpi grompp -f nvt.mdp -c em.gro -r em.gro -p topol.top -n index.ndx -o nvt.tpr
+ 1714  gmx_mpi mdrun -deffnm nvt
+ 1715  wget http://www.mdtutorials.com/gmx/complex/Files/npt.mdp
+ 1716  nano npt.mdp 
+ 1717  gmx_mpi grompp -f npt.mdp -c nvt.gro -t nvt.cpt -r nvt.gro -p topol.top -n index.ndx -o npt.tpr
+ 1718  gmx_mpi mdrun -deffnm npt
+ 1719  wget http://www.mdtutorials.com/gmx/complex/Files/md.mdp
+ 1720  nano md.mdp 
+ 1721  gmx_mpi grompp -f md.mdp -c npt.gro -t npt.cpt -p topol.top -n index.ndx -o md.tpr
+ 1722  screen -ls
+ 1723  screen -S salm
+ 1724  screen -r salm
+ 1725  screen -S salm
+ 1726  screen -r salm
+ 1727  ls
+ 1728  cd /mnt/volume/
+ 1729  ls
+ 1730  cd proteins.ma/
+ 1731  ls
+ 1732  cd ecoli/
+ 1733  ls
+ 1734  cd pbp1a/
+ 1735  ls
+ 1736  cd ..
+ 1737  ls
+ 1738  cd ..
+ 1739  ls
+ 1740  ls pa
+ 1741  ls pa/pbp1b
+ 1742  ls
+ 1743  cd ecoli/
+ 1744  ls
+ 1745  cd test_prot_md_script/
+ 1746  ls
+ 1747  cd ..
+ 1748  ls
+ 1749  cd pa_pbp1a/
+ 1750  ls
+ 1751  cd ..
+ 1752  ls
+ 1753  ls pa_pbp1a/
+ 1754  ls pbp1a/
+ 1755  ls
+ 1756  ls pbp3
+ 1757  ls
+ 1758  ls salm/
+ 1759  ls
+ 1760  cd ..
+ 1761  ks
+ 1762  ls
+ 1763  cd 
+ 1764  cd /mnt/
+ 1765  ls
+ 1766  cd volume/
+ 1767  ls
+ 1768  ls md_p_w/
+ 1769  cd proteins.ma/
+ 1770  ls
+ 1771  ls pa
+ 1772  ls
+ 1773  ls pa/pbp1b
+ 1774  ls pa/pbp1a
+ 1775  ls pa/pbp3
+ 1776  ls
+ 1777  cd ecoli/
+ 1778  ls
+ 1779  ls without_ligs/
+ 1780  ls pa_pbp1a/
+ 1781  ls pbp1a/
+ 1782  cd pa_pbp1a/
+ 1783  ls
+ 1784  ls pa_last_frame.pdb 
+ 1785  less pa
+ 1786  less pa_last_frame.pdb 
+ 1787  cd ..
+ 1788  ls
+ 1789  cd test_prot_md_script/
+ 1790  ls
+ 1791  cd
+ 1792  ls
+ 1793  cd /mnt/volume/dockTools/
+ 1794  ls
+ 1795  exit
+ 1796  ls
+ 1797  cd
+ 1798  ls
+ 1799  cd /mnt/volume/
+ 1800  ls
+ 1801  cd dockTools/
+ 1802  ls
+ 1803  ld
+ 1804  cd
+ 1805  ld
+ 1806  ls
+ 1807  cd /mnt/volume/
+ 1808  ls
+ 1809  less dockTools/
+ 1810  ls dockTools/
+ 1811  ls
+ 1812  mkdir RNA_SEQ
+ 1813  cd RNA_SEQ/
+ 1814  ls
+ 1815  nano dl_script
+ 1816  bash dl_script 
+ 1817  ls
+ 1818  rm SRR*
+ 1819  LS
+ 1820  ls
+ 1821  mv dl_script dl_script.sh
+ 1822  bash dl_script.sh 
+ 1823  conda install bioconda::seqtk
+ 1824  ls -lh
+ 1825  mv SRR580383 SRR580383.fq
+ 1826  mv SRR580384 SRR580384.fq
+ 1827  mv SRR580385 SRR580385.fq
+ 1828  mv SRR580386 SRR580386.fq
+ 1829  mv SRR580387 SRR580387.fq
+ 1830  mv SRR580388 SRR580388.fq
+ 1831  ls
+ 1832  mkdir data_files
+ 1833  mv SRR* data_files/
+ 1834  ls
+ 1835  cd data_files/
+ 1836  cd /mnt/volume/
+ 1837  cd RNA_SEQ/
+ 1838  ls
+ 1839  cd data_files/
+ 1840  ls
+ 1841  cd ..
+ 1842  ls
+ 1843  ls data_files/
+ 1844  mkdir clean_files
+ 1845  seqtk sample -s100 data_files/SRR580383.fq 50000
+ 1846  seqtk sample -s100 data_files/SRR580383.fq 50000 > clean_files/fm_1.fq.gz
+ 1847  seqtk sample -s100 data_files/SRR580384.fq 50000 > clean_files/fm_2.fq.gz
+ 1848  seqtk sample -s100 data_files/SRR580385.fq 50000 > clean_files/fm_3.fq.gz
+ 1849  seqtk sample -s100 data_files/SRR580386.fq 50000 > clean_files/m_1.fq.gz
+ 1850  seqtk sample -s100 data_files/SRR580387.fq 50000 > clean_files/m_2.fq.gz
+ 1851  seqtk sample -s100 data_files/SRR580388.fq 50000 > clean_files/m_3.fq.gz
+ 1852  ls clean_files/
+ 1853  ls -lh clean_files/
+ 1854  ls -lh data_files/
+ 1855  seqtk sample -s100 data_files/SRR580384.fq 50000 > clean_files/fm_2.fq.gz
+ 1856  ls -lh clean_files/
+ 1857  seqtk sample -s100 data_files/SRR580384.fq 50000 > clean_files/fm_2.fq.gz
+ 1858  less data_files/SRR580384.fq 
+ 1859  ls
+ 1860  cd clean_files/
+ 1861  rm *
+ 1862  ls
+ 1863  cd ..
+ 1864  ls
+ 1865  cd data_files/
+ 1866  ls
+ 1867  mv * *.fg.gz
+ 1868  ls
+ 1869  ls -lh
+ 1870  mv SRR580383.fq SRR580383.fq.gz
+ 1871  mv SRR580384.fq SRR580384.fq.gz
+ 1872  mv SRR580385.fq SRR580385.fq.gz
+ 1873  mv SRR580386.fq SRR580386.fq.gz
+ 1874  mv SRR580387.fq SRR580387.fq.gz
+ 1875  mv SRR580388.fq SRR580388.fq.gz
+ 1876  ls
+ 1877  ls -lh
+ 1878  gunzip SRR580388.fq.gz 
+ 1879  fastqc SRR580388.fq.gz 
+ 1880  ls
+ 1881  rm *
+ 1882  wget ../dl_script.sh 
+ 1883  bash ../dl_script.sh 
+ 1884  ls
+ 1885  fastqc SRR580388 
+ 1886  rm *
+ 1887  ls
+ 1888  cd ..
+ 1889  ls
+ 1890  rm dl_script.sh 
+ 1891  nano dl_script.sh
+ 1892  bash dl_script.sh 
+ 1893  ls
+ 1894  mv SRR58* data_files/
+ 1895  ls
+ 1896  cd data_files/
+ 1897  ls
+ 1898  cd ..
+ 1899  ls
+ 1900  ls -lh data_files/
+ 1901  seqtk sample -s100 data_files/SRR580384.fastq.gz 50000 > clean_files/fm_2.fq.gz
+ 1902  ls -lh clean_files/
+ 1903  seqtk sample -s100 data_files/SRR580383.fastq.gz 50000 > clean_files/fm_1.fq.gz
+ 1904  seqtk sample -s100 data_files/SRR580385.fastq.gz 50000 > clean_files/fm_3.fq.gz
+ 1905  seqtk sample -s100 data_files/SRR580386.fastq.gz 50000 > clean_files/fm_4.fq.gz
+ 1906  seqtk sample -s100 data_files/SRR580387.fastq.gz 50000 > clean_files/fm_5.fq.gz
+ 1907  seqtk sample -s100 data_files/SRR580388.fastq.gz 50000 > clean_files/fm_6.fq.gz
+ 1908  ls clean_files/
+ 1909  ls -lh clean_files/
+ 1910  less clean_files/fm_1.fq.gz 
+ 1911  cd clean_files/
+ 1912  ls
+ 1913  mv fm_4.fq.gz m_4.fq.gz
+ 1914  mv fm_5.fq.gz m_5.fq.gz
+ 1915  mv fm_6.fq.gz m_6.fq.gz
+ 1916  ls -lh 
+ 1917  cd ..
+ 1918  ls
+ 1919  mkdir qc
+ 1920  fastqc -o qc/ clean_files/*
+ 1921  less clean_files/fm_1.fq.gz 
+ 1922  cd clean_files/
+ 1923  ls
+ 1924  mv fm_1.fq.gz fm_1.fq
+ 1925  mv fm_2.fq.gz fm_2.fq
+ 1926  ls
+ 1927  mv fm_3.fq.gz fm_3.fq
+ 1928  mv m_4.fq.gz m_4.fq
+ 1929  mv m_5.fq.gz m_5.fq
+ 1930  mv m_6.fq.gz m_6.fq
+ 1931  ls
+ 1932  cd ..
+ 1933  ls
+ 1934  fastqc -o qc/ clean_files/*
+ 1935  ls
+ 1936  cd qc
+ 1937  ls
+ 1938  rm *
+ 1939  cd ..
+ 1940  ls
+ 1941  nano qc_script.sh
+ 1942  bash qc_script.sh 
+ 1943  ls
+ 1944  nano qc_script.sh
+ 1945  bash qc_script.sh 
+ 1946  nano qc_script.sh
+ 1947  bash qc_script.sh 
+ 1948  nano qc_script.sh
+ 1949  bash qc_script.sh 
+ 1950  ls
+ 1951  ls qc
+ 1952  conda install -c bioconda fastp
+ 1953  mkdir trim
+ 1954  fastp -i clean_files/fm_1.fq -o trim/fm_1_trim.fq
+ 1955  less trim/
+ 1956  ls trim/
+ 1957  ls
+ 1958  rm fastp.html 
+ 1959  rm fastp.json 
+ 1960  ls
+ 1961  cat qc_script.sh 
+ 1962  nano trim_script.sh
+ 1963  bash trim_script.sh 
+ 1964  nano trim_script.sh
+ 1965  ls
+ 1966  bash trim_script.sh 
+ 1967  nano trim_script.sh
+ 1968  bash trim_script.sh 
+ 1969  nano trim_script.sh
+ 1970  bash trim_script.sh 
+ 1971  ls
+ 1972  ls trim
+ 1973  nano trim_script.sh
+ 1974  bash trim_script.sh 
+ 1975  ls
+ 1976  ls trim
+ 1977  conda install -c bioconda star
+ 1978  STAR --version
+ 1979  ls
+ 1980  mkdir genome
+ 1981  cd genome/
+ 1982  wget http://ftp.ensemblgenomes.org/pub/metazoa/release-61/fasta/caenorhabditis_elegans/dna/Caenorhabditis_elegans.WBcel235.dna.toplevel.fa.gz
+ 1983  ls
+ 1984  gunzip Caenorhabditis_elegans.WBcel235.dna.toplevel.fa.gz 
+ 1985  ls
+ 1986  mv Caenorhabditis_elegans.WBcel235.dna.toplevel.fa c_elegans.fa
+ 1987  STAR --runMode genomeGenerate --genomeDir genomeIndex --genomeFastaFiles c_elegans.fa
+ 1988  ls
+ 1989  cd genomeIndex/
+ 1990  ls
+ 1991  less Log.out 
+ 1992  cd ../../
+ 1993  ls
+ 1994  mkdir mapped
+ 1995  nano mapping_script.sh
+ 1996  ls
+ 1997  cat trim_script.sh 
+ 1998  (basename "$filename".fq)
+ 1999  ls genome/
+ 2000  cd /mnt/volume/RNA_SEQ/
+ 2001  ls
+ 2002  cat mapping_script.sh 
+ 2003  rm mapping_script.sh 
+ 2004  nano mapping_script.sh
+ 2005  bash mapping_script.sh 
+ 2006  ls
+ 2007  ls mapped/
+ 2008  cat trim_script.sh 
+ 2009  ls trim
+ 2010  ls
+ 2011  rm trim_script.sh 
+ 2012  nano trim_script.sh
+ 2013  bash trim_script.sh 
+ 2014  ls
+ 2015  ls mapped/
+ 2016  cd mapped/
+ 2017  rm basename*
+ 2018  ls
+ 2019  less fm_1.fq.fq_trim.fq.fqLog.final.out 
+ 2020  less fm_2.fq.fq_trim.fq.fqLog.final.out  
+ 2021  less fm_1_trim.fq.fqSJ.out.tab  
+ 2022  wget fm_1.fq.fq_trim.fq.fqLog.progress.out  
+ 2023  less fm_1.fq.fq_trim.fq.fqLog.progress.out  
+ 2024  less fm_2.fq.fq_trim.fq.fqSJ.out.tab  
+ 2025  cd ..
+ 2026  ls
+ 2027  samtools view mapped/fm_1.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam | head
+ 2028  samtools view -c mapped/fm_1.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam | head
+ 2029  samtools view -c flagstat mapped/fm_1.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam | head 
+ 2030  samtools view flagstat mapped/fm_1.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam | head 
+ 2031  samtools  flagstat mapped/fm_1.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam | head 
+ 2032  ls
+ 2033  mkdir IGV
+ 2034  ls mapped/
+ 2035  cd mapp
+ 2036  cd mapped/
+ 2037  ls
+ 2038  rm *
+ 2039  ls
+ 2040  cd ..
+ 2041  ls
+ 2042  bash mapping_script.sh 
+ 2043  ls trim
+ 2044  cd trim
+ 2045  ls
+ 2046  rm fm_1.fq.fq_trim.fq
+ 2047  cd ..
+ 2048  ls trim
+ 2049  cd mapped/
+ 2050  ls
+ 2051  rm *
+ 2052  rm -r *
+ 2053  cd ..
+ 2054  ls
+ 2055  bash mapping_script.sh 
+ 2056  ls mapping_script.sh 
+ 2057  ls mapped/
+ 2058  cd mapped/
+ 2059  ls
+ 2060  rm *
+ 2061  cd ..
+ 2062  ls
+ 2063  nano mapping_script.sh 
+ 2064  ls *.sh
+ 2065  bash mapping_script.sh 
+ 2066  ls mapped/
+ 2067  cp mapped/*.bam IGV/
+ 2068  ls IGV/
+ 2069  pwd
+ 2070  samtools index arabidopsis1_sorted.bam
+ 2071  cd IGV/
+ 2072  ls
+ 2073  samtools index *
+ 2074  ls
+ 2075  samtools index fm_1_trim.fq.fqAligned.sortedByCoord.out.bam
+ 2076  ls
+ 2077  samtools index fm_2.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam
+ 2078  rm *
+ 2079  cd ..
+ 2080  cp mapped/*.bam IGV/
+ 2081  cd IGV/
+ 2082  ls
+ 2083  ls -lh 
+ 2084  samtools fm_1_trim.fq.fqAligned.sortedByCoord.out.bam
+ 2085  samtools index fm_1_trim.fq.fqAligned.sortedByCoord.out.bam
+ 2086  samtools index fm_2.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam
+ 2087  samtools index fm_3.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam
+ 2088  samtools index m_4.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam
+ 2089  samtools index m_5.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam 
+ 2090  samtools index m_6.fq.fq_trim.fq.fqAligned.sortedByCoord.out.bam 
+ 2091  ls
+ 2092  cd
+ 2093  conda install -c bioconda subread
+ 2094  featureCounts -v
+ 2095  ls
+ 2096  cd /mnt/volume/RNA_SEQ/
+ 2097  ls
+ 2098  mkdir counts
+ 2099  cd genome/
+ 2100  ls
+ 2101  wget 
+ 2102  wget https://ftp.ensembl.org/pub/release-114/gff3/caenorhabditis_elegans/Caenorhabditis_elegans.WBcel235.114.gff3.gz
+ 2103  ls
+ 2104  gunzip Caenorhabditis_elegans.WBcel235.114.gff3.gz 
+ 2105  ls
+ 2106  mv Caenorhabditis_elegans.WBcel235.114 c_elegans.gff3
+ 2107  mv Caenorhabditis_elegans.WBcel235.114.gff3 c_elegans.gff3
+ 2108  ls
+ 2109  cd ..
+ 2110  featureCounts -O -t gene -g ID -a genome/c_elegans.gff3 -o counts/counts.txt IGV/*.bam
+ 2111  ls
+ 2112  cd counts/
+ 2113  ls
+ 2114  less counts.txt
+ 2115  cd ..
+ 2116  history > log.txt
