@@ -54,6 +54,7 @@ plot(x = final_res$log2FoldChange,
      ylab = 'Adjusted P-Value',
      xlab = 'Log2 FC')
 
+
 #where are the upregulated
 upregulated <- subset(final_res, padj < 0.05 & log2FoldChange > 2)
 points(upregulated$log2FoldChange,

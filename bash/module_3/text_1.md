@@ -7,7 +7,7 @@
 
 - awk (scan)
 ** To scan patterns and process in files
-> wget http://blabla.com/sample.csv
+> wget https://raw.githubusercontent.com/HackBio-Internship/public_datasets/refs/heads/main/metadata_sample.tsv
 > awk -F"," '{print $1}' sample.csv
 - `-F` - Set what separates the data fields
 
